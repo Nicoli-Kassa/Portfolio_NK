@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "tamanho": "large",
+    "titulo": "AquaVisionCenter",
+    "link": "https://github.com/Nicoli-Kassa/GS_AquaVisionCenter",
+    "tecnologias": "HTML, CSS e JavaScript",
+    "descricao": "Plataforma abrangente dedicada à conservação dos oceanos, unindo empresas, ONGs, startups e pesquisadores em uma missão em comum de proteger e revitalizar o meio marinho. A AquaVision coletará e exibirá dados sobre a qualidade da água dos oceanos, dados como a temperatura da água, a luminosidade, acidificação dos oceanos e outras variáveis ambientais. Com esses dados, os principais problemas enfrentados pelos oceanos serão identificados e apresentados, podendo assim, serem solucionados. A plataforma permitirá que empresas, startups e ONGs apresentem suas ideias e iniciativas, facilitando a conexão entre problemas específicos e soluções relevantes. Além disso, a AquaVision oferecerá uma variedade de recursos e programas para promover parcerias, fomentar inovação e incentivar práticas sustentáveis.",
+    "img": "/images/projeto1.png"
+  },
+  {
+    "id": 2,
+    "tamanho": "small",
+    "titulo": "Automatizador de tarefas",
+    "link": "https://github.com/Nicoli-Kassa/PP_AutomatizandoTarefas",
+    "tecnologias": "Python",
+    "descricao": "Projeto feito junto ao curso Jornada Python da Hashtag. Neste Projeto automatizamos a tarefa de cadastrar produtos no sistema de uma empresa.",
+    "img": "/images/projeto2.png"
+  },
+  {
+    "id": 3,
+    "tamanho": "small",
+    "titulo": "E-Teen",
+    "link": "https://github.com/camipzcunha/E-Teen",
+    "tecnologias": "HTML, CSS, Tailwind, JavaScript e React Vite",
+    "descricao": "E-Teen é uma plataforma interativa desenvolvida para jovens com o tema da Fórmula-E, para a Mahindra Tech. O projeto visa engajar o público pré-adolescente com uma experiência imersiva e divertida, proporcionando o aprendizado sobre a Fórmula-E de forma lúdica e dinâmica.",
+    "img": "/images/projeto3.png"
+  },
+  {
+    "id": 4,
+    "tamanho": "large",
+    "titulo": "MonitoraLab",
+    "link": "https://github.com/TCC2023insv/MonitoraLab",
+    "tecnologias": "HTML, CSS, JavaScript, PHP e SQL",
+    "descricao": "O site permite o acompanhamento completo das atividades nos laboratórios da ETEC Doutor Celso Giglio, garantindo uma gestão eficiente dos recursos e equipamentos. Usuários podem reportar ocorrências e realizar diagnósticos dos laboratórios, informando sobre possíveis itens que estão em falta ou defeituosos, como teclados, mouses, monitores, entre outros. Com esse sistema, o controle e a manutenção dos laboratórios tornam-se mais organizados e ágeis, promovendo um ambiente funcional e bem equipado para todos.",
+    "img": "/images/projeto4.png"
+  },
+  {
+    "id": 5,
+    "tamanho": "small",
+    "titulo": "Melodia",
+    "link": "https://github.com/camipzcunha/CPFR-Melodia",
+    "tecnologias": "HTML, CSS e Sass",
+    "descricao": "Landing page do aplicativo de músicas Melodia. Utilizamos a última ferramenta que aprendemos na aula de Front-end Design: Sass (Syntactically Awesome Style Sheets), que nos permite criar estilos de forma mais organizada e eficiente. A landing page do Melodia foi desenvolvida para proporcionar uma experiência atraente e funcional para os usuários. Com a utilização do Sass, conseguimos organizar nossos estilos de forma modular e reutilizável, facilitando a manutenção e a escalabilidade do projeto.",
+    "img": "/images/projeto5.png"
+  },
+  {
+    "id": 6,
+    "tamanho": "small",
+    "titulo": "Jogo de memória",
+    "link": "https://github.com/Pedro-Camacho/Challenge-Edge-Computing",
+    "tecnologias": "Arduíno e C++",
+    "descricao": "Projeto de um jogo de memória interligada com o projeto E-Teen, que possui um álbum de figurinha. Ao ganhar, os participantes têm a chance de acumular pontos ou até mesmo conquistar figurinhas raras para seu álbum virtual da Fórmula-E. O jogo (conhecido como Simon Games ou Genius) consiste em um dispositivo com quatro botões coloridos que emitem sons e luzes. O objetivo do jogo é repetir uma sequência crescente de luzes e sons gerada aleatoriamente pelo dispositivo. Cada vez que o jogador completa corretamente a sequência, ela se torna mais longa e desafiadora. Se o jogador errar a sequência, o jogo termina.",
+    "img": "/images/projeto6.png"
+  },
+  {
+    "id": 7,
+    "tamanho": "large",
+    "titulo": "Capacete inteligente",
+    "link": "https://github.com/Nicoli-Kassa/EDGE_SPRINT2",
+    "tecnologias": "ESP32, DHT22 e C++",
+    "descricao": "Esse projeto monitora as condições do piloto de fórmula-E. O sistema é capaz de medir a temperatura e umidade interna do capacete, além dos batimentos cardíacos e sinais de desidratação. Com esse projeto é possível garantir a segurança e o bem-estar dos pilotos.",
+    "img": "/images/projeto7.png"
+  }
+]
