@@ -2,9 +2,9 @@
 
 #### Nicoli Amy Kassa - RM559104
 
-Bem-vindo(a) ao meu portfólio! Sou estudante de Engenharia de Software apaixonada por tecnologia e desenvolvimento web. Neste projeto, você encontrará uma breve descrição sobre mim, meus projetos, que refletem minhas habilidades em programação e design e meus contatos.
+Bem-vindo(a) ao meu portfólio! Sou estudante de Engenharia de Software na FIAP, apaixonada por tecnologia e desenvolvimento web. Neste projeto, você encontrará uma breve descrição sobre mim, meus projetos, que refletem minhas habilidades em programação e design, e meus contatos.
 
-Sinta-se à vontade para explorar os projetos e entrar em contato comigo para discussões, colaborações ou perguntas. Estou sempre aberto a novas oportunidades e desafios!
+Sinta-se à vontade para explorar os projetos e entrar em contato comigo para discussões, colaborações ou perguntas. Estou aberta a novas oportunidades e desafios!
 
 ### Demonstração > [Acesse o meu porfolio](https://portfolio-nk-xi.vercel.app/)
 
